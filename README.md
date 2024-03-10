@@ -2,3 +2,4 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
 - 🔥 IIT JEE Aspirant
+- 💻 Future Full Stack Developer/Cybersecurity Expert
