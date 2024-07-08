@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @VrajVed
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
-- 🔥 IIT JEE Aspirant
+- 🌱 I’m currently learning python
 - 💻 Future Full Stack Developer/Cybersecurity Expert
