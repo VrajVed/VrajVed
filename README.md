@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on many things mostly ML and Web Development.<br>I wish to collaborate with mentors to learn.<br>I am currently learning Python, ML and Web Dev frameworks<br>I know C/C++ and Python<br>I am curious and I love to learn
+I'm working on many things mostly ML and Web Development.<br>I wish to collaborate with mentors to learn.<br>I am currently learning Python, ML and Web Dev frameworks<br>I know Several languages<br>I am curious and I love to learn
 
 
 # 💻 Tech Stack:
