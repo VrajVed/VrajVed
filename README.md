@@ -1,5 +1,9 @@
-# 💫 About Me:
-I'm working on many things mostly ML and Web Development.<br>I wish to collaborate with mentors to learn.<br>I am currently learning Python, ML and Web Dev frameworks<br>I know Several languages<br>I am curious and I love to learn
+## 💫 About Me:
+- I'm working on many things mostly ML and Web Development.
+- I wish to collaborate with mentors to learn.
+- I am currently learning ML and Web Dev frameworks.
+- I know Several languages
+- I am curious and I love to learn
 
 # 💻 Technologies:
 #### Frontend: 
