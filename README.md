@@ -24,7 +24,7 @@
 
 ## Buy me a Ko-Fi:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P31ED54V)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)]([https://ko-fi.com/P5P31ED54V](https://ko-fi.com/hotplate/tip))
 
 
 # 📊 GitHub Stats:
