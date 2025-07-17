@@ -24,7 +24,7 @@
 
 ## Buy me a Ko-Fi:
 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hotplate)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P31ED54V)
 
 
 # 📊 GitHub Stats:
