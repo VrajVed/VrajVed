@@ -1,4 +1,5 @@
 ## 💫 About Me:
+![Profile Views](https://komarev.com/ghpvc/?username=VrajVed)
 - I'm working on many things mostly ML and Web Development.
 - I wish to collaborate with mentors to learn.
 - I am currently learning ML and Web Dev frameworks.
