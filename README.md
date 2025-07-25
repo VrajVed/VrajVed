@@ -27,6 +27,9 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hotplate/tip)
 
+#### Badges:
+![GitHub](https://camo.githubusercontent.com/69ea65063154c89628074f425ae8f2ba5d53f61eaff769f0f26b311fd1afaf13/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d312d423376613362616c48593775706f4e336e684e456e6a317846687a62637372)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VrajVed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
