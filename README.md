@@ -8,7 +8,7 @@
 <br>
 
 ```js
-const Technologies = {
+let Technologies = {
   Frontend: ["HTML5", "CSS3", "JavaScript", "TailwindCSS", "React", "Next.js", "Vite", "Framer Motion"],
   Backend: ["Flask", "Express.js", "Node.js", "Next.js"],
   Database: ["MongoDB"],
