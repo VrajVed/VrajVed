@@ -1,26 +1,22 @@
 ## 💫 About Me:
 ![Profile Views](https://komarev.com/ghpvc/?username=VrajVed)
-- I'm working on many things mostly ML and Web Development.
+- I'm working on myself.
 - I wish to collaborate with mentors to learn.
-- I am currently learning ML and Web Dev frameworks.
-- I know Several languages
-- I am curious and I love to learn
-
-#### 💻 Technologies:
-const Frontend = ["HTML5", "CSS3", "JavaScript", "TailwindCSS", "React", "Next.js", "Vite", "Framer Motion"];
-
-const Backend = ["Flask", "Express.js", "Node.js", "Next.js"];
-
-const Database = ["MongoDB"];
-
-const Languages = ["C", "C++", "Python", "JavaScript"];
-
-const Libraries = ["Streamlit", "Matplotlib", "NumPy", "Pandas", "Plotly", "Scikit-learn"];
-
-const Tools = ["Visual Studio Code", "Obsidian", "Figma", "Canva", "GitHub", "Git", "Microsoft PowerPoint", "Trello"];
+- I am currently learning whatever the hell piques my curiosity.
+- Reading documentation and not Vibecoding everything.
 
 <br>
 
+```js
+const Technologies = {
+  Frontend: ["HTML5", "CSS3", "JavaScript", "TailwindCSS", "React", "Next.js", "Vite", "Framer Motion"],
+  Backend: ["Flask", "Express.js", "Node.js", "Next.js"],
+  Database: ["MongoDB"],
+  Languages: ["C", "C++", "Python", "JavaScript"],
+  Libraries: ["Streamlit", "Matplotlib", "NumPy", "Pandas", "Plotly", "Scikit-learn"],
+  Tools: ["Visual Studio Code", "Obsidian", "Figma", "Canva", "GitHub", "Git", "Microsoft PowerPoint", "Trello"]
+};
+```
 ## Buy me a Ko-Fi:
 <br>
 <a href="https://ko-fi.com/hotplate/tip" target="_blank" rel="noopener noreferrer">
