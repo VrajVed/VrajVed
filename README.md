@@ -11,7 +11,7 @@
 let Technologies = {
   Frontend: ["HTML5", "CSS3", "JavaScript", "TailwindCSS", "React", "Next.js", "Vite", "Framer Motion"],
   Backend: ["Flask", "Express.js", "Node.js", "Next.js"],
-  Database: ["MongoDB"],
+  Database: ["MongoDB", "PostgreSQL"],
   Languages: ["C", "C++", "Python", "JavaScript"],
   Libraries: ["Streamlit", "Matplotlib", "NumPy", "Pandas", "Plotly", "Scikit-learn"],
   Tools: ["Visual Studio Code", "Obsidian", "Figma", "Canva", "GitHub", "Git", "Microsoft PowerPoint", "Trello"]
