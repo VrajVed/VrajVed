@@ -4,13 +4,14 @@
 - I wish to collaborate with mentors to learn.
 - I am currently learning whatever the hell piques my curiosity.
 - Reading documentation and not Vibecoding everything.
+- I like free open source.
 
 <br>
 
 ```js
 let Technologies = {
-  Frontend: ["HTML5", "CSS3", "JavaScript", "TailwindCSS", "React", "Next.js", "Vite", "Framer Motion"],
-  Backend: ["Flask", "Express.js", "Node.js", "Next.js"],
+  Frontend: ["HTML5", "CSS3", "JavaScript", "TailwindCSS", "React", "Next.js", "Vite", "Framer Motion", "shadcn-ui"],
+  Backend: ["Flask", "Express.js", "Node.js"],
   Database: ["MongoDB", "PostgreSQL"],
   Languages: ["C", "C++", "Python", "JavaScript"],
   Libraries: ["Streamlit", "Matplotlib", "NumPy", "Pandas", "Plotly", "Scikit-learn"],
