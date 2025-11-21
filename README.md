@@ -13,9 +13,11 @@ let Technologies = {
   Frontend: ["HTML5", "CSS3", "JavaScript", "TailwindCSS", "React", "Next.js", "Vite", "Framer Motion", "shadcn-ui"],
   Backend: ["Flask", "Express.js", "Node.js"],
   Database: ["MongoDB", "PostgreSQL"],
+  Deployment: ["Docker"],
   Languages: ["C", "C++", "Python", "JavaScript"],
   Libraries: ["Streamlit", "Matplotlib", "NumPy", "Pandas", "Plotly", "Scikit-learn"],
-  Tools: ["Visual Studio Code", "Obsidian", "Figma", "Canva", "GitHub", "Git", "Microsoft PowerPoint", "Trello"]
+  Tools: ["Visual Studio Code", "Obsidian", "Figma", "Canva", "GitHub", "Git", "Gitlab", "Microsoft PowerPoint", "Trello"],
+  Other: ["Gitlab Auto Pipelines"]
 };
 ```
 <br>
