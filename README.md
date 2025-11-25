@@ -5,6 +5,11 @@
 - I am currently learning whatever the hell piques my curiosity.
 - Reading documentation and not Vibecoding everything.
 - I like free open source.
+- I can learn new things very fast - A sponge, Rapid, Trainable. 
+
+<br>
+
+#### ⚠️ Currently open to apprenticeships, if you want me to join your team then feel free to contact me ! 
 
 <br>
 
