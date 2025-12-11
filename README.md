@@ -3,7 +3,7 @@
 - I'm working on myself.
 - I wish to collaborate with mentors to learn.
 - I am currently learning whatever the hell piques my curiosity.
-- Reading documentation and not Vibecoding everything.
+- Reading documentation. . .
 - I like free open source.
 - I can learn new things very fast - A sponge, Rapid, Trainable. 
 
