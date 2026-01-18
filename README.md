@@ -19,7 +19,7 @@ let Technologies = {
   Backend: ["Flask", "Express.js", "Node.js"],
   Database: ["MongoDB", "PostgreSQL"],
   Deployment: ["Docker"],
-  Languages: ["C", "C++", "Python", "JavaScript"],
+  Languages: ["C", "C++", "Python", "JavaScript", "TypeScript"],
   Libraries: ["Streamlit", "Matplotlib", "NumPy", "Pandas", "Plotly", "Scikit-learn"],
   Tools: ["Visual Studio Code", "Obsidian", "Figma", "Canva", "GitHub", "Git", "Gitlab", "Microsoft PowerPoint", "Trello"],
   Other: ["Gitlab Auto Pipelines"]
