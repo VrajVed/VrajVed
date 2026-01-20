@@ -1,6 +1,6 @@
-### About Me:
+## About Me:
 
-#### Full Stack + Systems Developer
+#### Self-Taught Full Stack + Systems Developer
 
 - ![Profile Views](https://komarev.com/ghpvc/?username=VrajVed)
 - I'm working on myself.
