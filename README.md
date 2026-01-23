@@ -3,7 +3,7 @@
 #### Self-Taught Full Stack + Systems Developer
 
 - ![Profile Views](https://komarev.com/ghpvc/?username=VrajVed)
-- I'm working on myself.
+- I'm working on myself and my skills
 - I wish to collaborate with mentors to learn.
 - I am currently learning whatever the hell piques my curiosity.
 - Reading documentation. . .
