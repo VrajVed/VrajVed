@@ -1,7 +1,36 @@
-
 ## About Me:
-
+<table>
+<tr>
+<td>
 <img width="500" height="329" alt="so_pilot" src="https://github.com/user-attachments/assets/640ab9a1-5ee8-4145-81a0-0e40d648da77" />
+</td>
+<td valign="top">
+<pre>
+  ┌──(vraj㉿archlinux)-
+  └─$ fastfetch
+                   -`
+                  .+`
+                 `ooo/
+                `+oooo:
+               `+oooooo:
+               -+oooooo+:
+             `/:-:++oooo+:
+            `/+++++++++++:
+           `/++++++++++++++:
+          `/+++ooooooooooooo/`
+         ./ooosssso++osssssso+
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
+</pre>
+</td>
+</tr>
+</table>
 
 ### Self-Taught Full Stack + Systems Developer
 
@@ -22,20 +51,19 @@ Portfolio Site: https://www.vrajved.tech/
 
 <br>
 
-```js
+```zsh
 ┌──(vraj㉿archlinux)-
-└─$ fastfetch
+└─$ technologies
 
-Technologies = {
-  Frontend: ["HTML5", "CSS3", "JavaScript", "TailwindCSS", "React", "Next.js", "Vite", "Framer Motion", "shadcn-ui"],
-  Backend: ["Flask", "Express.js", "Node.js"],
-  Database: ["MongoDB", "PostgreSQL"],
-  Deployment: ["Docker"],
-  Languages: ["C", "C++", "Python", "JavaScript", "TypeScript"],
-  Libraries: ["Streamlit", "Matplotlib", "NumPy", "Pandas", "Plotly", "Scikit-learn"],
-  Tools: ["Visual Studio Code", "Obsidian", "Figma", "Canva", "GitHub", "Git", "Gitlab", "Microsoft PowerPoint", "Trello"],
-  Other: ["Gitlab Auto Pipelines"]
-};                               
+  Frontend: HTML5, CSS3, TypeScript, TailwindCSS, Vite React, Next.js, Framer Motion, shadcn-ui, Svelte...
+  Backend: Flask, Express.js, Node.js, hono.js, Django, FastAPI...
+  Database: MongoDB, PostgreSQL...
+  Deployment: Docker, Podman, Kubernetes, AWS Console...
+  Languages: C / C++, Python, JavaScript, TypeScript, Rust, Go, typst, VimScript...
+  AIML / DL: Streamlit, Matplotlib, NumPy, Pandas, Plotly, Scikit-learn, Keras, TensorFlow...
+  Tools: Visual Studio Code, Obsidian, Figma, Canva, GitHub, Git, Gitlab, Neovim, Vim
+  Other: linux
+                              
 ```
 
 
