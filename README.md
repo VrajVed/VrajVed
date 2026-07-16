@@ -1,8 +1,11 @@
 ## About Me:
 
-#### Self-Taught Full Stack + Systems Developer
+<img width="500" height="329" alt="so_pilot" src="https://github.com/user-attachments/assets/640ab9a1-5ee8-4145-81a0-0e40d648da77" />
+
+### Self-Taught Full Stack + Systems Developer
 
 - ![Profile Views](https://komarev.com/ghpvc/?username=VrajVed)
+
 - I'm working on myself and my skills
 - I wish to collaborate with mentors to learn.
 - I am currently learning whatever the hell piques my curiosity.
@@ -30,6 +33,8 @@ let Technologies = {
   Other: ["Gitlab Auto Pipelines"]
 };
 ```
+
+
 <br>
 <a href="https://ko-fi.com/hotplate/tip" target="_blank" rel="noopener noreferrer">
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy me a coffee on Ko-fi">
