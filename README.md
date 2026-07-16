@@ -1,3 +1,4 @@
+
 ## About Me:
 
 <img width="500" height="329" alt="so_pilot" src="https://github.com/user-attachments/assets/640ab9a1-5ee8-4145-81a0-0e40d648da77" />
@@ -22,7 +23,10 @@ Portfolio Site: https://www.vrajved.tech/
 <br>
 
 ```js
-let Technologies = {
+┌──(vraj㉿archlinux)-
+└─$ fastfetch
+
+Technologies = {
   Frontend: ["HTML5", "CSS3", "JavaScript", "TailwindCSS", "React", "Next.js", "Vite", "Framer Motion", "shadcn-ui"],
   Backend: ["Flask", "Express.js", "Node.js"],
   Database: ["MongoDB", "PostgreSQL"],
@@ -31,7 +35,7 @@ let Technologies = {
   Libraries: ["Streamlit", "Matplotlib", "NumPy", "Pandas", "Plotly", "Scikit-learn"],
   Tools: ["Visual Studio Code", "Obsidian", "Figma", "Canva", "GitHub", "Git", "Gitlab", "Microsoft PowerPoint", "Trello"],
   Other: ["Gitlab Auto Pipelines"]
-};
+};                               
 ```
 
 
